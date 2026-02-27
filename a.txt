@@ -1,13 +1,9 @@
 hola a todos
 
-<<<<<<< HEAD
-cambio 
-=======
 
 bruce dice hola!!!
->>>>>>> 60a39307967395a13dd9552a8253b91871f4bc5d
 
 cambio 03
 cambio 04
 
-IM hackeo este txt 
+IM hackeo este txt
